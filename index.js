@@ -6,10 +6,10 @@ if (name === "Susan") {
 }
  else if (height === "70") {
    console.log("Height is OK")
-   
+
  }
   else {
-     console.log("Expected the name to be Susan" + height)
+     console.log("Expected the name to be Susan" + "70")
   }
 
 
