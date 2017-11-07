@@ -9,7 +9,7 @@ if (name === "Susan") {
 
  }
   else {
-     console.log("Expected the name to be Susan" + "70")
+     console.log("Expected the name to be Susan" + " 70")
   }
 
 
